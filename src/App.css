@@ -1,0 +1,26 @@
+.cont{
+  margin: 50px;
+}
+h2 {
+  color: brown;
+}
+span {
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
+.upper {
+  background-color: aqua;
+  border-radius: 10px;
+  height: 40px;
+  border: 1px solid black;
+}
+h3 {
+  margin-top: 3%;
+}
+h5 {
+  color: rgb(147, 4, 71);
+}
+input{
+  margin-left: 10px;
+}
